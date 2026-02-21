@@ -7,6 +7,9 @@ An end-to-end Machine Learning project to predict employee attrition using imbal
 Employee attrition increases hiring costs, reduces productivity, and impacts organizational stability.
 This project builds a predictive model to identify employees who are likely to leave the company.
 
+Dataset : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
+renamed as hr_data.csv
+
 🧠 Approach
 
 Data preprocessing and feature encoding
