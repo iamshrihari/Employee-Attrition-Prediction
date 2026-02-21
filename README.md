@@ -41,28 +41,6 @@ Recall (Attrition class): ~59%
 
 Improved minority class detection using imbalance-aware techniques.
 
-📂 Project Structure
-Employee-Attrition-Prediction/
-│── data/
-│   └── hr_data.csv
-│
-│── output/
-│   ├── predictions.csv
-│   ├── confusion_matrix.png
-│   └── feature_importance.png
-│
-│── models/
-│   └── retention_model.pkl
-│
-│── src/
-│   ├── preprocess.py
-│   ├── train_model.py
-│   ├── predict.py
-│   └── utils.py
-│
-│── main.py
-│── requirements.txt
-│── README.md
 
 ⚙️ Installation
 git clone https://github.com/iamshrihari/Employee-Attrition-Prediction.git
